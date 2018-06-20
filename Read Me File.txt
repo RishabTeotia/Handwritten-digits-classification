@@ -1,0 +1,3 @@
+In this repository i have provided the train model which i trained on my pc
+and prediction photos accuracy etc.i have create two files one for training
+and one for prediction.
